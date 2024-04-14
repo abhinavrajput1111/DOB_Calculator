@@ -1,6 +1,6 @@
 body {
   font-family: system-ui;
-  background: #e8e1dc;
+  background: #f3ebe6;
   color: black;
   /*   color: white; */
   text-align: center;
@@ -34,3 +34,15 @@ body {
   width: 100%;
   max-width: 300px;
 }
+/* 
+#wrapper {
+  background-color: #dd5c00;
+} */
+
+/* .box {
+  height: 100%;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #cac7c5;
+} */
